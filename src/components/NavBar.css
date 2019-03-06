@@ -1,0 +1,32 @@
+.navbar-toggler
+{
+   
+    background-image: url('../images/NaviIcon_22.png');
+    background-size: 90%;
+    background-position: center;
+    
+    
+}
+.navbar-defualt{
+    color:grey;
+}
+.navbar{
+   
+   color:white;
+
+}
+
+.navbar-brand{
+    color:grey;
+}
+
+.navbar-collapse{
+   
+}
+.nav-item{
+    color:white;
+}
+.nav-link{
+    color:grey;
+}
+

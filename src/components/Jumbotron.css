@@ -1,0 +1,21 @@
+.Jumbotron{
+   
+   background-repeat: no-repeat;
+   
+   padding-top:20px;
+   size: 100%;
+   background-image:url('../images/PhotoshootCover.png');
+   background-position: center;
+   background-size: cover;
+    
+}
+.display-3{
+   color:white;
+}
+.btn{
+   color:white;
+}
+.bodytext{
+   color:white;
+}
+
