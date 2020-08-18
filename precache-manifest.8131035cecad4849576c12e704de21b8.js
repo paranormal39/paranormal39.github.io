@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "//paranormal39.github.io/static/media/MysteryMoutainIcon.59302eae.png"
   },
   {
-    "revision": "93945406b59aa4d444f0",
+    "revision": "069e27ab9cdbba9ba617",
     "url": "//paranormal39.github.io/static/css/main.c58f9fd7.chunk.css"
   },
   {
@@ -28,8 +28,8 @@ self.__precacheManifest = [
     "url": "//paranormal39.github.io/static/media/theroomintrogif.99a4fa58.gif"
   },
   {
-    "revision": "93945406b59aa4d444f0",
-    "url": "//paranormal39.github.io/static/js/main.93945406.chunk.js"
+    "revision": "069e27ab9cdbba9ba617",
+    "url": "//paranormal39.github.io/static/js/main.069e27ab.chunk.js"
   },
   {
     "revision": "835f4c86d97096de22712f83bcbf3ec6",
@@ -56,7 +56,7 @@ self.__precacheManifest = [
     "url": "//paranormal39.github.io/static/media/roadwidscreen.cd68f7a6.png"
   },
   {
-    "revision": "0953e30531c44bc7c0ddc4e6b89571a9",
+    "revision": "b1a1ed10ccfb8b4537842776d7febc22",
     "url": "//paranormal39.github.io/index.html"
   }
 ];
