@@ -4,16 +4,16 @@ self.__precacheManifest = [
     "url": "//paranormal39.github.io/static/media/MysteryMoutainIcon.59302eae.png"
   },
   {
-    "revision": "069e27ab9cdbba9ba617",
-    "url": "//paranormal39.github.io/static/css/main.c58f9fd7.chunk.css"
+    "revision": "2c8eed10426f73312985",
+    "url": "//paranormal39.github.io/static/css/main.364c0b04.chunk.css"
   },
   {
     "revision": "4bf3a26aff60a81bb010",
     "url": "//paranormal39.github.io/static/js/runtime~main.4bf3a26a.js"
   },
   {
-    "revision": "49c032558bb4d5a7e87b",
-    "url": "//paranormal39.github.io/static/js/2.49c03255.chunk.js"
+    "revision": "fe294cf3cb902a75eca8",
+    "url": "//paranormal39.github.io/static/js/2.fe294cf3.chunk.js"
   },
   {
     "revision": "976722969d411bdc3842354e765486d6",
@@ -28,8 +28,8 @@ self.__precacheManifest = [
     "url": "//paranormal39.github.io/static/media/theroomintrogif.99a4fa58.gif"
   },
   {
-    "revision": "069e27ab9cdbba9ba617",
-    "url": "//paranormal39.github.io/static/js/main.069e27ab.chunk.js"
+    "revision": "2c8eed10426f73312985",
+    "url": "//paranormal39.github.io/static/js/main.2c8eed10.chunk.js"
   },
   {
     "revision": "835f4c86d97096de22712f83bcbf3ec6",
@@ -56,7 +56,7 @@ self.__precacheManifest = [
     "url": "//paranormal39.github.io/static/media/roadwidscreen.cd68f7a6.png"
   },
   {
-    "revision": "b1a1ed10ccfb8b4537842776d7febc22",
+    "revision": "573e0f1b3839ef69e25e77108911243b",
     "url": "//paranormal39.github.io/index.html"
   }
 ];
