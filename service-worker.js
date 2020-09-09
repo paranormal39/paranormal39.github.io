@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "//paranormal39.github.io/precache-manifest.b38f1b63e673bfaedba7ffaee0260be1.js"
+  "//paranormal39.github.io/precache-manifest.3946be1f6765cd0f19451dc3fad7774b.js"
 );
 
 workbox.clientsClaim();
