@@ -1,15 +1,15 @@
 {
-  "main.css": "//paranormal39.github.io/static/css/main.ba8aeab6.chunk.css",
-  "main.js": "//paranormal39.github.io/static/js/main.d32efc75.chunk.js",
-  "main.js.map": "//paranormal39.github.io/static/js/main.d32efc75.chunk.js.map",
+  "main.css": "//paranormal39.github.io/static/css/main.79e2e3ec.chunk.css",
+  "main.js": "//paranormal39.github.io/static/js/main.b969c789.chunk.js",
+  "main.js.map": "//paranormal39.github.io/static/js/main.b969c789.chunk.js.map",
   "runtime~main.js": "//paranormal39.github.io/static/js/runtime~main.4bf3a26a.js",
   "runtime~main.js.map": "//paranormal39.github.io/static/js/runtime~main.4bf3a26a.js.map",
-  "static/js/2.7e093f8e.chunk.js": "//paranormal39.github.io/static/js/2.7e093f8e.chunk.js",
-  "static/js/2.7e093f8e.chunk.js.map": "//paranormal39.github.io/static/js/2.7e093f8e.chunk.js.map",
+  "static/js/2.1cde34a8.chunk.js": "//paranormal39.github.io/static/js/2.1cde34a8.chunk.js",
+  "static/js/2.1cde34a8.chunk.js.map": "//paranormal39.github.io/static/js/2.1cde34a8.chunk.js.map",
   "index.html": "//paranormal39.github.io/index.html",
-  "precache-manifest.3946be1f6765cd0f19451dc3fad7774b.js": "//paranormal39.github.io/precache-manifest.3946be1f6765cd0f19451dc3fad7774b.js",
+  "precache-manifest.e87d4e28dc86b5981366fc66cb6d0250.js": "//paranormal39.github.io/precache-manifest.e87d4e28dc86b5981366fc66cb6d0250.js",
   "service-worker.js": "//paranormal39.github.io/service-worker.js",
-  "static/css/main.ba8aeab6.chunk.css.map": "//paranormal39.github.io/static/css/main.ba8aeab6.chunk.css.map",
+  "static/css/main.79e2e3ec.chunk.css.map": "//paranormal39.github.io/static/css/main.79e2e3ec.chunk.css.map",
   "static/media/HeadShot.png": "//paranormal39.github.io/static/media/HeadShot.2147998f.png",
   "static/media/KbCover.png": "//paranormal39.github.io/static/media/KbCover.835f4c86.png",
   "static/media/MysteryMoutainIcon.png": "//paranormal39.github.io/static/media/MysteryMoutainIcon.59302eae.png",
@@ -20,5 +20,6 @@
   "static/media/Jumbotron.css": "//paranormal39.github.io/static/media/pexels-memo-candray-3042207.f6e8743d.jpg",
   "static/media/roadwidscreen.png": "//paranormal39.github.io/static/media/roadwidscreen.cd68f7a6.png",
   "static/media/theroomintrogif.gif": "//paranormal39.github.io/static/media/theroomintrogif.99a4fa58.gif",
-  "static/media/ufoRender.png": "//paranormal39.github.io/static/media/ufoRender.68bca5b0.png"
+  "static/media/ufoRender.png": "//paranormal39.github.io/static/media/ufoRender.68bca5b0.png",
+  "static/media/victor-chaidez.png": "//paranormal39.github.io/static/media/victor-chaidez.bdb24611.png"
 }
